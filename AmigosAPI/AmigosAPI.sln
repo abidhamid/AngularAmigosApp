@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmigosAPI", "AmigosAPI.csproj", "{DC1AFF5D-4211-45B7-A58E-B232BD087FEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC1AFF5D-4211-45B7-A58E-B232BD087FEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC1AFF5D-4211-45B7-A58E-B232BD087FEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC1AFF5D-4211-45B7-A58E-B232BD087FEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC1AFF5D-4211-45B7-A58E-B232BD087FEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36773DAE-E2E0-43A2-9C23-9E861A23DB62}
+	EndGlobalSection
+EndGlobal
